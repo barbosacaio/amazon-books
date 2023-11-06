@@ -1,6 +1,6 @@
 # Amazon Books
 
-- Basic visualization and data cleaning for the bestsellers books on Amazon 2009-2019
+- Basic visualization and data cleaning for the bestseller books on Amazon 2009-2019
 - This project was created to learn the process of gathering data and making it turn into useful insights
 - Dataset gathered from [Kaggle](https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019)
 
